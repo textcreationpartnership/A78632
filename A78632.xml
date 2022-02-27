@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cains off-spring demonstrated, as by their works they are discovered in a bitter persecution against the Lords people at Newark Upon Trent, in the county of Nottingham: being here truly related as it was suffered and executed at two several meetings. / Published for the truths sake, by those whom the proud in heart calls Quakers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78632</idno>
+            <idno type="STC">Wing C209</idno>
+            <idno type="STC">ESTC R229339</idno>
+            <idno type="EEBO-CITATION">45578208</idno>
+            <idno type="OCLC">ocm 45578208</idno>
+            <idno type="VID">172159</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78632)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172159)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2616:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cains off-spring demonstrated, as by their works they are discovered in a bitter persecution against the Lords people at Newark Upon Trent, in the county of Nottingham: being here truly related as it was suffered and executed at two several meetings. / Published for the truths sake, by those whom the proud in heart calls Quakers.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons at the Sign of the Bull and Mouth near Aldersgate,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Persecutions --  England --  Newark.</term>
+               <term>Newark (Nottinghamshire, England) --  Church history.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Quaker_pamphlet">
+            <pb n="1" facs="tcp:172159:1" rendition="simple:additions"/>
+            <head>Cains Off-ſpring DEMONSTRATED, As by their Works they are Diſcovered in a bitter Perſecution againſt the Lords People AT NEWARK Upon TRENT, in the County of NOTTINGHAM: Being here truly Related as it was Suffered and Executed at Two ſeveral Meetings.</head>
+            <head type="sub">Publiſhed for the Truths ſake, by thoſe whom the proud in Heart calls <hi>Q<g ref="char:V">Ʋ</g>AKERS.</hi>
+            </head>
+            <p>IT being ſo Ordered by the Lord, that a clear way was opened and a place obtained for the Lords People to meet in at <hi>Newark,</hi> freedom was given from the Lord to appoint a time to meet together, and upon the 7th day of the 9th Month, 1659. being the ſecond day of the Week, a Meeting was or<g ref="char:EOLhyphen"/>dered in Gods wiſdom, and the Lords People came up to it, at whoſe appearance in the Town, the rude multitude gathered in the ſtreets, and ſtood filled with envy, and made a great noiſe with
+<pb n="2" facs="tcp:172159:2"/>ſhouting for a long time, until moſt Friends were come together; And being met in the Name of the Lord, and waiting in his fear, the Word of Life was declared by <hi>William Dewsbery</hi> the Servant of the Lord, in which time the rude people gathered into the Mee<g ref="char:EOLhyphen"/>ting, and the wicked one appeared in them, and much rudeneſs was committed by them for a long time together; yet through all was the Word of Life preached, and ſupplication made unto the Lord in Prayer by his ſervant; in which time ſome bloud was ſpilt by the hands of the wicked, and then an envious man got behind him, and ran violently upon him to throw him down from the Table where he ſtood, and others ſtood ready to lay hands upon him to pull him away, and got hold of his garment and rent it; but the Lord delivered him out of their hands, and in all this time none in Government appeared to order the peo<g ref="char:EOLhyphen"/>ple in peace, only one <hi>Chriſtopher Wilſon</hi> (an Alderman in the Town) came into the Meeting, and at his firſt coming in, he did a little rebuke ſome of them; but after he departed (which was in a little time) they were heightned in their wickedneſs, and did a<g ref="char:EOLhyphen"/>bide in much rudeneſs for a long time together, and then the Lord appeared and brought them down, that they ſtood in a pretty ſtill<g ref="char:EOLhyphen"/>neſs until the Lords Servant had born forth his Teſtimony in the power of his ſpirit, and the Meeting broke up in pretty order; ſo after a ſeaſon of time, the bowels of Compaſſion opened towards the people again, and another Meeting was appointed at the ſame place, the Keeper of the Houſe (whoſe Name is <hi>Thomas Ailsby)</hi> be<g ref="char:EOLhyphen"/>ing free thereunto; and it was ordered upon the 11th day of the 10th Month, 1659. being the firſt day of the Week, at which time the Lord brought many of his People together, who in his fear waiting, a miniſtration was given in his power, and the Truth of God was declared for a ſeaſon of time; but the Enmity grew ſo ſtrong in the wicked who then was gathered together, that the flame kindled in their breſt, and ſuddenly brake forth into flames without, that ſuch things were thrown amongſt us by them, which in the miſchief of their hearts they had invented, as brake forth into violent burnings; and one <hi>Thomas Heaps</hi> an Apothecary in the Town was chief in the Invention of this deſparate wickedneſs, and then the Lord moved, and his Name was called upon in Prayer in the power of his ſpirit, in which time one of thoſe things was caſt at the Friend who was Praying unto the Lord, and it brake near unto his face with much violence, that the Garments of Friends
+<pb n="3" facs="tcp:172159:2"/>was much burned with the flames thereof, but the Lord preſerved their bodies that the flames had not power of them; And after all this done, and we ſtill kept together in the fear of the Lord, then they began to pull us down from our ſtandings with much vio<g ref="char:EOLhyphen"/>lence, and ſuch a Tumult was then made by them for a long time together as cannot be expreſſed; ſome pulling us down and puſh<g ref="char:EOLhyphen"/>ing us about, others got upon the heads of Women and ſate upon them, others throwing Forms and Stools about to do miſchief, and others pulling off our Hats and caſting them away, ſo as ſome were loſt.</p>
+            <p>After this came <hi>William Hobman</hi> called Mayor, <hi>William Martin</hi> and <hi>Benjamine Wilſon</hi> called Aldermen; and when they came a<g ref="char:EOLhyphen"/>mongſt the rude multitude, the Mayor enquired of <hi>them,</hi> where thoſe were that made ſuch a diſturbance, and asked <hi>what we did there?</hi> and <hi>why we did not get us gone?</hi> and <hi>why the man received us to his Houſe?</hi> And ſaid to ſome Friends, <hi>That if we would not be gone, if they knockt us on the head, we might take the mends on our own hands;</hi> and then he, and the Aldermen with him, came to the door where we were in peace together, and his eyes beheld us ſo; Then at the door a Friend met him, and told him, <hi>That if he had the Government of that Place, he was to order the people in peace:</hi> To which the Mayor Replyed, <hi>There was ſuch a diſturbance made, and the Town was of ſuch an <g ref="char:V">Ʋ</g>proar that it was unpoſſible for any Magiſtrate in</hi> England <hi>to quiet them; but he was come to protect us from them, if</hi> then <hi>we would depart out of the Town:</hi> So Anſwer was given him by a Friend, <hi>That we were ordered thither by the Lord, and as we had freedom in the Lord we ſhould depart, and it was the Lord that protected us:</hi> whereupon the Mayor Replied, <hi>We were a people that juſtified our ſelves:</hi> It was Anſwered him, <hi>That we denyed our ſelves and were juſtified by the Lord, and if we were of the world, the world would love its own:</hi> The Mayor Replied, <hi>He did not underſtand that; but if we would then go, He was there ready to protect us, but if we would not, we might take what followed.</hi>
+            </p>
+            <p>How unlike was this man to the Ruler of the Synagogue, who when <hi>Paul</hi> and others with him were ordered into the Synagogue, they ſent unto them, ſaying, <hi>Ye men and brethren, if ye have any word of Exhortation for the people, ſay on,</hi> Acts. 13.15. They went into the Synagogue, and this liberty was given them by the Rulers; but the Ruler of <hi>Newark</hi> came unto us where we were in peace to<g ref="char:EOLhyphen"/>gether, and enquired <hi>what we did there? and why we did not get us gone?</hi> ſaying, <hi>If they knockt us in the head, we might take the mends on
+<pb n="4" facs="tcp:172159:3"/>our own hands if we would not be gone.</hi> Here was not liberty given for a word of Exhortation to be ſpoken unto the people, nor liberty to abide, but in danger to be knockt in the head; This is a ſhame for a Ruler to be ſo void of underſtanding as to know his place no better.</p>
+            <p>So this Ruler departed, and the Aldermen with him, and left the rude Multitude in the height of their fury, and ſtrengthned them in it, and (as it was affirmed by many of them) command<g ref="char:EOLhyphen"/>ed to drive us out of the Town, which they ſtood ready to perform, and ſo came and broke in upon us, as the Truth was declaring a<g ref="char:EOLhyphen"/>mongſt us, and got to the far end of the Room, and violently thruſt us down both Men and Women, and ſome was buffetted there; and when they had thruſt us down the ſtairs, the Multitude had ſet themſelves to execute the miſchief of their hearts, many of them had got ſtaffs in their hands, and had ſet themſelves like a lane for a long way together, and violently fell upon us with ſore ſtripes, buffettings, knocking down, throwing down, bunching and ſtoning, that ſome had their teeth knockt out, ſome their faces beat into blackneſſe, Womens head-cloaths pulled off from their heads, and bloud ſpilt, the execution of which Cruelty cannot be expreſſed, nor the ſtripes and blowes (that then were laid up<g ref="char:EOLhyphen"/>on the Innocent) numbred; and this was for a long time together executed upon above an hundred of us, whoſe perſons were all much exerciſed in this great ſuffering and cruel perſecution, and ſome had their Bridles and Saddle-girths cut, that about one Friend there was above twenty Knives all drawn together; And through all this our God appeared to preſerve life, and our deli<g ref="char:EOLhyphen"/>verance was by his own arm, Praiſes and Glory be unto him for ever.</p>
+            <p>And this Cruelty was exerciſed upon that day which they call their <hi>Sabbath,</hi> and in that very time in which ſome of them were at their profeſſed Worſhip. And this was ſuffered and <hi>encouraged</hi> by him who in his place ſhould have ſettled the people in quiet<g ref="char:EOLhyphen"/>neſſe and peace; yet there was a few appeared in ſome moderati<g ref="char:EOLhyphen"/>on, and one <hi>Francis Fitz-Williams</hi> an Alderman was made <hi>ſervice<g ref="char:EOLhyphen"/>able</hi> to many Friends in taking off the wicked from exerciſing their Cruelty to the full, and his Compaſſion did much appear towards the patient ſufferers; and they did not ceaſe their Cruel<g ref="char:EOLhyphen"/>ty whilſt any of us were left in the Town, only one that did a<g ref="char:EOLhyphen"/>bide all night.</p>
+            <pb n="5" facs="tcp:172159:3"/>
+            <p>And thus did the Beaſt with his horns puſh and make War with the Lambs, who in their innocency are juſtified in the ſight of God; and this is given forth that Truth may be cleared, and the work<g ref="char:EOLhyphen"/>ers of iniquity may ſee themſelves, and come to Repentance before the fierceneſs of the wrath of God take hold upon them; There<g ref="char:EOLhyphen"/>fore all you people of the Town of <hi>Newark,</hi> who had any hand in this deſparate wickedneſſe, or whoſe hearts were joyned by conſent, Repent of your evil-doings from high to low, for you are all proved, and your way is tryed, and your work is curſed, and the wrath of the Lord is kindled againſt you; Therefore un<g ref="char:EOLhyphen"/>to thee who art called Mayor, this is the word of the Lord God, Repent, repent, that thy ſins may be blotted ut and thy iniquity pardoned before the day of vengeance take hold upon thee, for the Cry of the Poor is gone up unto the Lord of Sabbaths, and he will enquire after thee, and his hand will find thee out, for <hi>Cain</hi> was a Murtherer, and his Brothers bloud cryed againſt him, and the Lord enquired after him and found him out, and his ſin was charged upon him, and the judgement of God went forth againſt him, and then he cryed that his puniſhment was greater then he could bear; Put not this far from thee, but read it near thee, for the Root of <hi>Cain</hi> is in thee, and thy fruits have made it manifeſt, and without ſpeedy repentance, his puniſhment will fall upon thee, becauſe thou haſt ſet thy heart to do wickedly.</p>
+            <p>And all people both old and young, who were in this diſperate wickedneſſe, either with your hands or hearts, you are by us pit<g ref="char:EOLhyphen"/>tied, whom you ſo much wronged; for ſad is your ſtates when it is truly conſidered, and if you do not repent you will all periſh, for the Righteous God judgeth righteouſly, and will lay the wicked<g ref="char:EOLhyphen"/>neſſe of the wicked upon their own heads, and turn them all in<g ref="char:EOLhyphen"/>to Hell, becauſe he is forgotten by them; Then how can you eſ<g ref="char:EOLhyphen"/>cape who commit ſin with greedineſſe, and runs to do violence with both hands, performing the miſchief of your hearts againſt the Innocent who ſeeks no revenge upon you, but rather that ye might come to repentance, &amp; eſcape the fierceneſs of Gods wrath, which will ſpeedily overtake you if you go on in your wickedneſs, and there ſhall be none found to deliver you, for he whom you ſerve is the God of this World, and he hath dominion over you, and at his will he hath you captive, and you are his ſervants, de<g ref="char:EOLhyphen"/>lighting your hearts in wickedneſſe, and loving evil more then goodneſs; Therefore wo is unto you from the Lord God, becauſe
+<pb n="6" facs="tcp:172159:4"/>you have ſold your ſelves to do wickedly, and we being witneſſes of it, are conſtrained to teſtifie againſt you and all the unfruitful works of darkneſſe that is brought forth by you; Therefore do you hate us, becauſe the Divels work in you is reproved by us, as it was by him who teſtified againſt the World and all the evil deeds thereof, and the Scripture is fulfilled which was ſpoken by him, <hi>They hated me without a cauſe, and the Servant is not greater then his Maſter; If they have perſecuted me, they will perſecute you</hi> ſaith the Lord, <hi>And the time ſhall come, that whoſoever killeth you, will think that he doth God ſervice.</hi>
+            </p>
+            <p>Now read your ſelves and ſee whoſe off-ſpring you are, for <hi>Cain</hi> was of the wicked one and he murthered; <hi>Abel</hi> was Righteous and he ſuffered, and ſo through Ages and Generations hath the Righteous ſuffered under the wickeds cruelty; and as the birth born of the fleſh hath alwayes perſecuted the birth born of the ſpirit, even ſo it is now, for ſuch were alwayes blinded, who were of that birth that perſecuted, and ſo could never be<g ref="char:EOLhyphen"/>hold the appearance of God, but turned againſt it in all ages; for the <hi>Jews</hi> could not behold the Glory of the onely begotten of the Father, when manifeſt amongſt them, nor could not believe that it was he, but called him <hi>a Deceiver, and a Blaſphemer, and a Prince of Devils,</hi> and ſo took Councel together againſt him, and by wick<g ref="char:EOLhyphen"/>ed hands crucified and ſlew him; and theſe are your fathers, O ye viperous Generation, whom you are following, and filling up the meaſure of iniquity, turning againſt the Life of him whoſe Glo<g ref="char:EOLhyphen"/>ry now appeareth; and this will be your condemnation, that light is come into the world, and you love darkneſſe rather then light, be<g ref="char:EOLhyphen"/>cauſe your deeds are evil.</p>
+            <p>Therefore repent of your evil deeds, and love them no more, but turn to the Light that reproves you for them in your own con<g ref="char:EOLhyphen"/>ſcience, and love the light which ſearches you in ſecret, and that will let you ſee wherein you have erred, and how unlike reaſona<g ref="char:EOLhyphen"/>ble men you have acted, without either ſobriety or moderation, and it will ſmite you in your inward parts for all your tranſgreſ<g ref="char:EOLhyphen"/>ſions, and wound you in the ſecret of your hearts for all your ſins, and this is he of whom we teſtifie, who is the <hi>True Light that lighteth every man that cometh into the World,</hi> that you all may un<g ref="char:EOLhyphen"/>to him be turned, for he hath no pleaſure that any of you ſhould die, but rather that you would turn from your wickedneſſe and live.</p>
+            <p>Therefore turn ye, turn ye, Why will you die, ſeeing God
+<pb n="7" facs="tcp:172159:4"/>would not have you periſh? Why will you deſtroy your ſelves, and run headlong to the pit of deſtruction in this day of the break<g ref="char:EOLhyphen"/>ings forth of Gods tender mercy.</p>
+            <p>O conſider it before it be too late, and let the time paſt of your lives ſuffice, that you have ſpent in your uncleanneſſe and abho<g ref="char:EOLhyphen"/>minable wickedneſs, for an end will come, and an account muſt be given for every idle word; And what then will be the end of Murtherers, Perſecutors, Drunkards, Swearers, Lyars, Proud, Covetous, Envious Perſons, Whoremongers and all pro<g ref="char:EOLhyphen"/>phane people? Will it not be the Lake that burneth, where there will be weeping and wailing, and gnaſhing of teeth? yea, know it from the Lord God, that this will be the portion of all the ungod<g ref="char:EOLhyphen"/>ly, and into this pit will you fall without ſpeedy repentance; and do not count us your enemies becauſe we tell you the Truth, for it is the bowels of pitty that moveth towards you, that you may ſee the Love that God hath unto you, in that he doth not ſpeedily execute judgement upon you, but forbears and is pati<g ref="char:EOLhyphen"/>ent towards you, that his goodneſſe might lead you to repentance; And this is the love that God hath to you, who delighteth not in the death of any of you, but hath freely given unto every one of you a manifeſtation of the Spirit that doth reprove you in your own conſciences for all your tranſgreſſions; So all come into the patience, and let your moderation appear to all men, and hear<g ref="char:EOLhyphen"/>ken to that of God in you, whoſe voice reproves you, and will be the condemnation of you if you go on in your wickedneſſe, for your wickedneſſe exceeds the <hi>Sodomites,</hi> they ſuffered juſt <hi>Lot</hi> to dwell amongſt them, but you would not ſuffer us to abide amongſt you, but in the fierceneſs of your wrath exerciſed cruelty upon us, for which you muſt give account to the living God; the <hi>Athenians</hi> who worſhiped an unknown God were not like unto you, but when <hi>Paul</hi> preached unto them Jeſus and the Reſurrection, they were ſober, and ſaid unto him, <hi>we would know what theſe things mean;</hi> ſo they heard him declare the Truth of God and were pa<g ref="char:EOLhyphen"/>tient, and ſuffered him to depart in peace, <hi>Acts</hi> 17. but you with<g ref="char:EOLhyphen"/>out an enquiry after what was declared, fell into rudeneſſe, and would neither hear your ſelves, nor ſuffer others to hear, but laid violent hands on us, and with much cruelty did drive us away, and cauſed us to depart out of your Town, and the duſt of our feet we ſhake off againſt you for a witneſſe, &amp; except you repent, it will be more eaſie for <hi>Sodom</hi> in the day of judgement then for you.</p>
+            <pb n="8" facs="tcp:172159:5"/>
+            <p>And we have learned contentedneſs, and do bear theſe things in patience, looking unto him who is gone before us, who endured the Croſſe and deſpiſed the ſhame, and through ſufferings was made perfect, and neither cryed nor lift up his voice, but as a Lamb was he led to the ſlaughter, and in patience drank the Cup which the Father gave him to drink, and all that have followed him in Ages and Generations paſt, have ſuffered the like things by the like Generation, being perſecuted, tormented and afflicted, and yet over all rejoyced; and this is not a new thing which you have done to us, but hath from <hi>Cain</hi> deſcended, and amongſt you is found alive in <hi>Cains</hi> root, whoſe off-ſpring you are; and though we have ſuffered much by you, yet we do not threaten you, but commits our Cauſe unto him that judgeth righteouſly, who by the Arm of his Power delivered us out of your wicked hands, and gives us peace in our patient ſufferings to his everlaſting praiſe: And ſo the words of Truth declared in <hi>Matth.</hi> 5.10, 11, 12. are ſealed unto us in the eternal Spirit,
+<q>Bleſsed are they <hi>(ſaith Chriſt)</hi> who ſuffer perſecution for Righteouſneſs ſake, for theirs is the Kingdom of Heaven: Bleſſed are ye when men revile you, and perſecute you, and ſay all manner of evil againſt you falſly for my ſake: Rejoyce and be glad, for great is your reward in Heaven, for ſo perſecuted they the Prophets which were before you.</q>
+            </p>
+            <epigraph>
+               <q>
+                  <p>It is the Spirit that beareth witneſs, for the Spirit is Truth.</p>
+               </q>
+            </epigraph>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the Sign of the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
